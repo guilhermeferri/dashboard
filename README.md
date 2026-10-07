@@ -1,2 +1,2 @@
-# priceboard
-Integrated Price Board
+# Dashboard
+Integrated Dashboard
